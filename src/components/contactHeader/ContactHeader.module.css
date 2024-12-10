@@ -1,0 +1,11 @@
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.conatiner_section h1{
+    font-weight: 800;
+    font-size: 48px;
+}
+.conatiner_section p{
+    font-weight: 400;
+}
